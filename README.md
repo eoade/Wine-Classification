@@ -257,4 +257,4 @@ Data Engineering | Machine Learning | Artificial Intelligence
 
 📜 License
 
-This project is intended for educational and learning purposes.
+GNU General Public License v3.0.
