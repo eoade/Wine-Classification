@@ -1,6 +1,6 @@
 # Traditional Machine Learning vs Neural Network
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project provides a practical demonstration of the relationship between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Neural Networks.
 
@@ -13,7 +13,7 @@ The objective is to understand how the two approaches learn patterns and how the
 
 ---
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 The project aims to:
 
@@ -25,7 +25,7 @@ The project aims to:
 
 ---
 
-📊 Dataset
+# 📊 Dataset
 
 The project uses the Wine Quality dataset.
 
@@ -43,7 +43,7 @@ The dataset contains chemical characteristics of red wine, including:
 - Sulphates
 - Alcohol
 
-Target Variable
+# Target Variable
 
 The original wine quality score was converted into a binary classification:
 
@@ -52,7 +52,7 @@ Quality < 7   → Not Good Wine
 
 ---
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -63,7 +63,7 @@ Quality < 7   → Not Good Wine
 
 ---
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 
 Wine Quality Dataset
         ↓
@@ -91,9 +91,9 @@ Model Comparison
 
 ---
 
-🤖 Models
+# 🤖 Models
 
-1. Random Forest
+# 1. Random Forest
 
 Random Forest represents the traditional Machine Learning approach.
 
@@ -104,7 +104,7 @@ rf = RandomForestClassifier(
     random_state=42
 )
 
-2. Neural Network
+# 2. Neural Network
 
 A Multi-Layer Perceptron (MLP) represents the neural-network-based approach.
 
@@ -131,7 +131,7 @@ nn = MLPClassifier(
 
 ---
 
-📈 Evaluation Metrics
+# 📈 Evaluation Metrics
 
 The models are compared using:
 
@@ -145,7 +145,7 @@ Confusion matrices are also generated to examine correct and incorrect classific
 
 ---
 
-🧪 Results
+# 🧪 Results
 
 The Python notebook automatically generates a performance comparison after training.
 
@@ -159,7 +159,7 @@ Neural Network| Run code| Run code| Run code| Run code| Run code
 
 ---
 
-🧠 Key Learning
+# 🧠 Key Learning
 
 The project demonstrates the relationship between the major AI concepts:
 
@@ -180,7 +180,7 @@ An important lesson from the project is that Deep Learning is not automatically 
 
 ---
 
-⚠️ Challenges
+# ⚠️ Challenges
 
 Some challenges encountered during the project include:
 
@@ -193,7 +193,7 @@ Some challenges encountered during the project include:
 
 ---
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Possible improvements include:
 
@@ -207,7 +207,7 @@ Possible improvements include:
 
 ---
 
-📁 Project Structure
+# 📁 Project Structure
 
 Traditional-ML-vs-Neural-Network/
 │
@@ -217,17 +217,17 @@ Traditional-ML-vs-Neural-Network/
 
 ---
 
-▶️ How to Run
+# ▶️ How to Run
 
-1. Clone the repository
+# 1. Clone the repository
 
 git clone https://github.com/your-username/Traditional-ML-vs-Neural-Network.git
 
-2. Install dependencies
+# 2. Install dependencies
 
 pip install pandas numpy matplotlib scikit-learn
 
-3. Open the notebook
+# 3. Open the notebook
 
 Run:
 
@@ -237,7 +237,7 @@ The notebook will load the dataset, train both models, evaluate their performanc
 
 ---
 
-🏁 Conclusion
+# 🏁 Conclusion
 
 This project demonstrates that traditional Machine Learning and neural networks can solve the same classification problem using fundamentally different learning approaches.
 
