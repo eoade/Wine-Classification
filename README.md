@@ -1,4 +1,4 @@
-Traditional Machine Learning vs Neural Network
+# Traditional Machine Learning vs Neural Network
 
 📌 Project Overview
 
