@@ -252,9 +252,3 @@ The comparison provides a practical foundation for understanding why Deep Learni
 Emmanuel Adegoke
 
 Data Engineering | Machine Learning | Artificial Intelligence
-
----
-
-📜 License
-
-This project is intended for educational and demonstration purposes.
